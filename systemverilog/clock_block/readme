@@ -1,0 +1,3 @@
+this test directory represents the tests for clocking block features. Following feature points in systemverilog will be touched.
+
+-- common clocking block features: the setup and hold time for each signals
